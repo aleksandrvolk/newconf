@@ -6,11 +6,11 @@
 		<Metadata name="CommonModule.ПолучениеСпискаОбновлений1С" id="68170d4a-b5d0-4d0e-bf57-7908562b1a65" configVersion="8043dd3197bb6743b4492ef4ab82989500000000"/>
 		<Metadata name="CommonModule.ПолучениеСпискаОбновлений1С.Module" id="68170d4a-b5d0-4d0e-bf57-7908562b1a65.0" configVersion="02f3bfb5b12f7847bbc6b360bdeb8e6e00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="26b7eac9-032b-4a71-8c38-3ce2ae32c0da" configVersion="5b3ff4d94667564ba1fb024a82d13bc900000000"/>
-		<Metadata name="HTTPService.listupdates1s" id="07bd4d93-c33f-4412-9985-671ad84f21e8" configVersion="c95be162b1ef77438a16d409a62d3f9900000000">
+		<Metadata name="HTTPService.listupdates1s" id="07bd4d93-c33f-4412-9985-671ad84f21e8" configVersion="db02ef7bc3293c4a952233a6554083b700000000">
 			<Metadata name="HTTPService.listupdates1s.URLTemplate.ПолучитьСписокОбновлений1С" id="13e2fb72-2c1c-4d63-abe0-96c48fe463d1"/>
 			<Metadata name="HTTPService.listupdates1s.URLTemplate.ПолучитьСписокОбновлений1С.Method.ПолучитьСписок" id="32b40c01-ad6c-4848-8788-d3bce723841b"/>
 		</Metadata>
-		<Metadata name="HTTPService.listupdates1s.Module" id="07bd4d93-c33f-4412-9985-671ad84f21e8.0" configVersion="0d847efc9b872042b7e1a8773132614300000000"/>
+		<Metadata name="HTTPService.listupdates1s.Module" id="07bd4d93-c33f-4412-9985-671ad84f21e8.0" configVersion="9b1b371976b4164b890ad143e3ba92d600000000"/>
 		<Metadata name="Language.Русский" id="aae80ddb-1628-4873-944b-599fd7bafc02" configVersion="9cb7f53c2aeabe4a9a2926624f3a05a000000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
